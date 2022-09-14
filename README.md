@@ -16,3 +16,10 @@ airflow container has the following mandatory services:
 
 in x-airflow-common, the volumes are mapped from inside to outside. on the local machine (a folder named /dags on current directory is created to bridge the inside of docker at /opt/airflow/dags) 
 
+## level 2: 
+
+## level 3:
+
+
+## level 4: 
+connectors automatically bring and sink data from airflow
